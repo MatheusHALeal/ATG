@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+ 	<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.5/angular.min.js"></script>
+ 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+	<script type="https://cdnjs.cloudflare.com/ajax/libs/angular-ui-router/1.2.3/angular-ui-router.js"></script>
+	<script src="modules.js"></script>
+	<script src="userController.js"></script>
+</head>
+<body ng-app="connection">
+	 <div ng-controller="userCtrl">
+    <input type="text" name="username" placeholder="login" ng-model="username"> <button ng-click="getTopArtists(username)">got it</button>
+	 </div>
+
+</body>
+</html>
