@@ -1,0 +1,159 @@
+[
+{source: "Lana Del Rey", target: "Marina & the Diamonds"},
+
+{source: "Lana Del Rey", target: "Melanie Martinez"},
+
+{source: "Lana Del Rey", target: "Lorde"}
+,
+{source: "Lana Del Rey", target: "Florence + the Machine"},
+
+{source: "Lana Del Rey", target: "Halsey"},
+
+{source: "Lana Del Rey", target: "Lady Gaga"},
+
+{source: "Lana Del Rey", target: "Troye Sivan"},
+
+{source: "Lana Del Rey", target: "Tove Lo"},
+
+{source: "Lana Del Rey", target: "Emile Haynie"},
+
+{source: "Lana Del Rey", target: "Lykke Li"}
+,
+{source: "Lady Gaga", target: "Ke$ha"}
+,
+{source: "Lady Gaga", target: "Katy Perry"},
+
+{source: "Lady Gaga", target: "Nicki Minaj"},
+
+{source: "Lady Gaga", target: "Marina & the Diamonds"},
+
+{source: "Lady Gaga", target: "Rihanna"},
+
+{source: "Lady Gaga", target: "Madonna"},
+
+{source: "Lady Gaga", target: "Lana Del Rey"},
+
+{source: "Lady Gaga", target: "Miley Cyrus"},
+
+{source: "Lady Gaga", target: "Ariana Grande"},
+
+{source: "Lady Gaga", target: "Tove Lo"},
+
+{source: "Azealia Banks", target: "Brooke Candy"},
+{source: "Azealia Banks", target: "M.I.A."},
+
+{source: "Azealia Banks", target: "Nicki Minaj"},
+
+{source: "Azealia Banks", target: "Iggy Azalea"},
+
+{source: "Azealia Banks", target: "Lil' Kim"},
+
+{source: "Azealia Banks", target: "Khia"},
+
+{source: "Azealia Banks", target: "Karol Conka"},
+
+{source: "Azealia Banks", target: "Tkay Maidza"},
+
+{source: "Azealia Banks", target: "Angel Haze"},
+
+{source: "Azealia Banks", target: "Missy Elliott"},
+
+{source: "Chelsea Wolfe", target: "Emma Ruth Rundle"},
+
+{source: "Chelsea Wolfe", target: "King Dude & Chelsea Wolfe"},
+
+{source: "Chelsea Wolfe", target: "Esben and the Witch"},
+
+{source: "Chelsea Wolfe", target: "King Dude"},
+
+{source: "Chelsea Wolfe", target: "Anna von Hausswolff"},
+
+{source: "Chelsea Wolfe", target: "Marissa Nadler"},
+
+{source: "Chelsea Wolfe", target: "Soap&Skin"},
+
+{source: "Chelsea Wolfe", target: "Darkher"}
+,
+{source: "Chelsea Wolfe", target: "PJ Harvey"},
+
+{source: "Chelsea Wolfe", target: "Ulver"},
+
+{source: "Pabllo Vittar", target: "Aretuza Lovi"},
+
+{source: "Pabllo Vittar", target: "Gloria Groove"},
+
+{source: "Pabllo Vittar", target: "IZA"},
+
+{source: "Pabllo Vittar", target: "Anitta"},
+
+{source: "Pabllo Vittar", target: "Mateus Carrilho"},
+
+{source: "Pabllo Vittar", target: "Jão"},
+
+{source: "Pabllo Vittar", target: "Ludmilla"},
+
+{source: "Pabllo Vittar", target: "Kaya Conky"},
+
+{source: "Pabllo Vittar", target: "Luan Santana, Simone & Simaria & Pabllo Vittar"},
+
+{source: "Pabllo Vittar", target: "Luísa Sonza"},
+
+{source: "Madonna", target: "Kylie Minogue"},
+
+{source: "Madonna", target: "Janet Jackson"},
+
+{source: "Madonna", target: "Cher"},
+
+{source: "Madonna", target: "Britney Spears"},
+
+{source: "Madonna", target: "Christina Aguilera"},
+
+{source: "Madonna", target: "Gwen Stefani"},
+
+{source: "Madonna", target: "Cyndi Lauper"},
+
+{source: "Madonna", target: "Jennifer Lopez"}
+,
+{source: "Madonna", target: "Lady Gaga"},
+
+{source: "Madonna", target: "Mariah Carey"},
+
+{source: "Lykke Li", target: "Florence + the Machine"}
+,
+{source: "Lykke Li", target: "Lily Allen"},
+
+{source: "Lykke Li", target: "Robyn"},
+
+{source: "Lykke Li", target: "Banks"},
+
+{source: "Lykke Li", target: "Kimbra"},
+
+{source: "Lykke Li", target: "Marina & the Diamonds"},
+
+{source: "Lykke Li", target: "Sky Ferreira"},
+
+{source: "Lykke Li", target: "Charli XCX"},
+
+{source: "Lykke Li", target: "Lana Del Rey"},
+
+{source: "Lykke Li", target: "Years & Years"},
+
+{source: "Sevdaliza", target: "FKA twigs"},
+
+{source: "Sevdaliza", target: "Abra"},
+
+{source: "Sevdaliza", target: "Kelela"},
+
+{source: "Sevdaliza", target: "Banks"},
+
+{source: "Sevdaliza", target: "Tei Shi"},
+
+{source: "Sevdaliza", target: "SZA"},
+
+{source: "Sevdaliza", target: "Anohni"},
+
+{source: "Sevdaliza", target: "Kali Uchis"},
+
+{source: "Sevdaliza", target: "Kilo Kish"},
+
+{source: "Sevdaliza", target: "AlunaGeorge"}]
