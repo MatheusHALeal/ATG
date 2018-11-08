@@ -1,0 +1,1178 @@
+source,target,weight
+Coldplay,Arctic Monkeys,16
+Coldplay,Red Hot Chili Peppers,13
+Coldplay,Maroon 5,23
+Rihanna,Coldplay,9
+Coldplay,The Weeknd,10
+Coldplay,Queen,13
+Coldplay,Lana Del Rey,13
+Coldplay,The Beatles,16
+Coldplay,Sia,18
+Coldplay,Drake,6
+Coldplay,Ed Sheeran,18
+Coldplay,Calvin Harris,11
+Coldplay,Radiohead,21
+Coldplay,The Killers,18
+Coldplay,Major Lazer,7
+Coldplay,David Bowie,20
+Coldplay,Adele,17
+Coldplay,Imagine Dragons,11
+Coldplay,Lady Gaga,8
+Coldplay,Foo Fighters,13
+Coldplay,Katy Perry,13
+Coldplay,Linkin Park,12
+Coldplay,Nirvana,9
+Coldplay,Pink Floyd,9
+Coldplay,Oasis,20
+Coldplay,Michael Jackson,10
+Coldplay,The Strokes,17
+Coldplay,Amy Winehouse,11
+Coldplay,Florence + the Machine,16
+Coldplay,Lorde,9
+Coldplay,Justin Timberlake,9
+Coldplay,Justin Bieber,9
+Coldplay,Ariana Grande,8
+Coldplay,Led Zeppelin,8
+Coldplay,Anitta,13
+Coldplay,Britney Spears,13
+Coldplay,Pearl Jam,8
+Coldplay,Green Day,14
+Coldplay,The Rolling Stones,11
+Coldplay,Muse,21
+Coldplay,Kings of Leon,13
+Coldplay,David Guetta,5
+Coldplay,Madonna,10
+Coldplay,Bruno Mars,11
+Coldplay,Foster the People,12
+Coldplay,Gorillaz,16
+Coldplay,Caetano Veloso,7
+Coldplay,The xx,16
+Rihanna,Arctic Monkeys,6
+Rihanna,Red Hot Chili Peppers,8
+Rihanna,Maroon 5,13
+Rihanna,Queen,7
+Rihanna,The Weeknd,12
+Rihanna,Lana Del Rey,15
+Rihanna,The Beatles,7
+Rihanna,Sia,15
+Rihanna,Drake,12
+Rihanna,Ed Sheeran,12
+Rihanna,Calvin Harris,11
+Rihanna,Radiohead,8
+Rihanna,The Killers,10
+Rihanna,Major Lazer,13
+Rihanna,David Bowie,11
+Rihanna,Imagine Dragons,8
+Rihanna,Lady Gaga,27
+Rihanna,Foo Fighters,7
+Rihanna,Katy Perry,28
+Rihanna,Linkin Park,11
+Rihanna,Nirvana,4
+Rihanna,Pink Floyd,4
+Rihanna,Oasis,7
+Rihanna,Michael Jackson,14
+Rihanna,The Strokes,8
+Rihanna,Amy Winehouse,17
+Rihanna,Florence + the Machine,13
+Rihanna,Justin Timberlake,25
+Rihanna,Lorde,10
+Rihanna,Justin Bieber,19
+Rihanna,Ariana Grande,26
+Rihanna,Led Zeppelin,3
+Rihanna,Anitta,26
+Rihanna,Britney Spears,34
+Rihanna,Pearl Jam,5
+Rihanna,Green Day,8
+Rihanna,The Rolling Stones,6
+Rihanna,Kings of Leon,7
+Rihanna,Muse,7
+Rihanna,David Guetta,9
+Rihanna,Madonna,22
+Rihanna,Bruno Mars,18
+Rihanna,Foster the People,11
+Rihanna,Gorillaz,11
+Rihanna,Caetano Veloso,4
+Rihanna,The xx,9
+Arctic Monkeys,Red Hot Chili Peppers,11
+Red Hot Chili Peppers,Maroon 5,20
+Red Hot Chili Peppers,Queen,13
+Red Hot Chili Peppers,The Weeknd,5
+Red Hot Chili Peppers,Lana Del Rey,9
+Red Hot Chili Peppers,The Beatles,10
+Red Hot Chili Peppers,Sia,9
+Red Hot Chili Peppers,Drake,5
+Red Hot Chili Peppers,Ed Sheeran,8
+Red Hot Chili Peppers,Calvin Harris,7
+Red Hot Chili Peppers,Radiohead,12
+Red Hot Chili Peppers,The Killers,16
+Red Hot Chili Peppers,Major Lazer,8
+Red Hot Chili Peppers,David Bowie,17
+Red Hot Chili Peppers,Imagine Dragons,11
+Red Hot Chili Peppers,Lady Gaga,7
+Red Hot Chili Peppers,Foo Fighters,19
+Red Hot Chili Peppers,Katy Perry,11
+Red Hot Chili Peppers,Linkin Park,18
+Red Hot Chili Peppers,Nirvana,16
+Red Hot Chili Peppers,Pink Floyd,9
+Red Hot Chili Peppers,Oasis,15
+Red Hot Chili Peppers,Michael Jackson,12
+Red Hot Chili Peppers,The Strokes,15
+Red Hot Chili Peppers,Amy Winehouse,7
+Red Hot Chili Peppers,Florence + the Machine,8
+Red Hot Chili Peppers,Justin Timberlake,9
+Red Hot Chili Peppers,Lorde,5
+Red Hot Chili Peppers,Justin Bieber,9
+Red Hot Chili Peppers,Ariana Grande,5
+Rihanna,Adele,14
+Red Hot Chili Peppers,Led Zeppelin,9
+Red Hot Chili Peppers,Britney Spears,10
+Red Hot Chili Peppers,Anitta,8
+Red Hot Chili Peppers,Pearl Jam,13
+Red Hot Chili Peppers,Green Day,21
+Red Hot Chili Peppers,The Rolling Stones,10
+Red Hot Chili Peppers,Kings of Leon,15
+Red Hot Chili Peppers,Muse,13
+Red Hot Chili Peppers,David Guetta,3
+Red Hot Chili Peppers,Madonna,10
+Red Hot Chili Peppers,Bruno Mars,10
+Red Hot Chili Peppers,Foster the People,13
+Red Hot Chili Peppers,Gorillaz,13
+Red Hot Chili Peppers,Caetano Veloso,7
+Red Hot Chili Peppers,The xx,9
+Arctic Monkeys,Maroon 5,14
+Arctic Monkeys,Queen,9
+Arctic Monkeys,The Weeknd,6
+Arctic Monkeys,Lana Del Rey,8
+Arctic Monkeys,The Beatles,13
+Arctic Monkeys,Sia,9
+Arctic Monkeys,Drake,5
+Arctic Monkeys,Ed Sheeran,13
+Arctic Monkeys,Calvin Harris,9
+Arctic Monkeys,Radiohead,14
+Arctic Monkeys,The Killers,16
+Arctic Monkeys,Major Lazer,6
+Arctic Monkeys,David Bowie,17
+Arctic Monkeys,Imagine Dragons,9
+Arctic Monkeys,Lady Gaga,5
+Arctic Monkeys,Foo Fighters,11
+Arctic Monkeys,Katy Perry,8
+Arctic Monkeys,Linkin Park,10
+Arctic Monkeys,Nirvana,8
+Arctic Monkeys,Pink Floyd,8
+Arctic Monkeys,Oasis,18
+Arctic Monkeys,Michael Jackson,5
+Arctic Monkeys,The Strokes,19
+Arctic Monkeys,Amy Winehouse,10
+Arctic Monkeys,Florence + the Machine,15
+Arctic Monkeys,Justin Timberlake,5
+Arctic Monkeys,Justin Bieber,5
+Arctic Monkeys,Lorde,6
+Arctic Monkeys,Ariana Grande,3
+Red Hot Chili Peppers,Adele,6
+Arctic Monkeys,Led Zeppelin,7
+Arctic Monkeys,Britney Spears,7
+Arctic Monkeys,Anitta,7
+Arctic Monkeys,Pearl Jam,6
+Arctic Monkeys,Green Day,11
+Arctic Monkeys,The Rolling Stones,10
+Arctic Monkeys,Kings of Leon,14
+Arctic Monkeys,Muse,16
+Arctic Monkeys,David Guetta,3
+Arctic Monkeys,Madonna,5
+Arctic Monkeys,Bruno Mars,7
+Arctic Monkeys,Gorillaz,15
+Arctic Monkeys,Foster the People,10
+Arctic Monkeys,Caetano Veloso,6
+Arctic Monkeys,The xx,15
+The Weeknd,Maroon 5,9
+Queen,The Weeknd,4
+Maroon 5,The Beatles,14
+Maroon 5,Lana Del Rey,15
+Maroon 5,Sia,18
+Maroon 5,Drake,7
+Maroon 5,Ed Sheeran,16
+Maroon 5,Calvin Harris,10
+Maroon 5,Radiohead,16
+Maroon 5,The Killers,21
+Maroon 5,Major Lazer,10
+Maroon 5,David Bowie,21
+Maroon 5,Imagine Dragons,13
+Maroon 5,Foo Fighters,17
+Maroon 5,Lady Gaga,11
+Maroon 5,Katy Perry,17
+Maroon 5,Linkin Park,18
+Maroon 5,Nirvana,13
+Maroon 5,Oasis,15
+Maroon 5,Pink Floyd,7
+Maroon 5,Michael Jackson,15
+Maroon 5,The Strokes,19
+Maroon 5,Amy Winehouse,11
+Maroon 5,Florence + the Machine,15
+Maroon 5,Justin Timberlake,16
+Maroon 5,Justin Bieber,14
+Maroon 5,Lorde,9
+Maroon 5,Ariana Grande,11
+Maroon 5,Led Zeppelin,7
+Arctic Monkeys,Adele,12
+Maroon 5,Britney Spears,15
+Maroon 5,Pearl Jam,10
+Maroon 5,Anitta,16
+Maroon 5,Green Day,19
+Maroon 5,The Rolling Stones,8
+Maroon 5,Kings of Leon,16
+Maroon 5,Muse,15
+Maroon 5,David Guetta,5
+Maroon 5,Madonna,12
+Maroon 5,Bruno Mars,17
+Maroon 5,Gorillaz,18
+Maroon 5,Foster the People,16
+Maroon 5,Caetano Veloso,7
+Maroon 5,The xx,14
+Queen,Maroon 5,11
+The Weeknd,The Beatles,5
+The Weeknd,Lana Del Rey,11
+The Weeknd,Sia,14
+The Weeknd,Drake,18
+The Weeknd,Ed Sheeran,12
+The Weeknd,Calvin Harris,9
+The Weeknd,Radiohead,12
+The Weeknd,The Killers,8
+The Weeknd,Major Lazer,12
+The Weeknd,David Bowie,11
+The Weeknd,Imagine Dragons,8
+The Weeknd,Foo Fighters,5
+The Weeknd,Katy Perry,7
+The Weeknd,Lady Gaga,7
+The Weeknd,Linkin Park,8
+The Weeknd,Nirvana,3
+The Weeknd,Oasis,5
+The Weeknd,Pink Floyd,6
+The Weeknd,Michael Jackson,7
+The Weeknd,The Strokes,6
+The Weeknd,Amy Winehouse,10
+The Weeknd,Florence + the Machine,8
+The Weeknd,Lorde,12
+The Weeknd,Justin Timberlake,12
+The Weeknd,Justin Bieber,14
+The Weeknd,Ariana Grande,13
+The Weeknd,Led Zeppelin,2
+Maroon 5,Adele,14
+The Weeknd,Britney Spears,12
+The Weeknd,Pearl Jam,4
+The Weeknd,Green Day,5
+The Weeknd,Anitta,15
+The Weeknd,Kings of Leon,6
+The Weeknd,The Rolling Stones,6
+The Weeknd,David Guetta,6
+The Weeknd,Muse,7
+The Weeknd,Madonna,6
+The Weeknd,Bruno Mars,12
+The Weeknd,Foster the People,8
+The Weeknd,The xx,14
+The Weeknd,Caetano Veloso,6
+Queen,The Beatles,17
+Queen,Lana Del Rey,6
+Queen,Sia,6
+Queen,Drake,3
+Queen,Ed Sheeran,9
+Queen,Calvin Harris,7
+Queen,Radiohead,15
+Queen,The Killers,11
+Queen,Major Lazer,4
+Queen,David Bowie,24
+Queen,Imagine Dragons,7
+Queen,Foo Fighters,11
+Queen,Lady Gaga,7
+Queen,Katy Perry,7
+Queen,Linkin Park,10
+Queen,Nirvana,9
+Queen,Oasis,14
+Queen,Pink Floyd,16
+Queen,Michael Jackson,11
+Queen,The Strokes,10
+Queen,Amy Winehouse,8
+Queen,Florence + the Machine,9
+Queen,Lorde,4
+Queen,Justin Timberlake,5
+Queen,Justin Bieber,6
+Queen,Ariana Grande,5
+Queen,Led Zeppelin,16
+The Weeknd,Adele,11
+Queen,Britney Spears,10
+Queen,Pearl Jam,9
+Queen,Green Day,12
+Queen,Anitta,7
+Queen,Kings of Leon,9
+Queen,The Rolling Stones,15
+Queen,David Guetta,2
+Queen,Muse,16
+Queen,Madonna,9
+Queen,Bruno Mars,7
+Queen,Foster the People,7
+Queen,The xx,9
+Queen,Caetano Veloso,8
+The Beatles,Lana Del Rey,9
+The Beatles,Sia,10
+Lana Del Rey,Drake,7
+Lana Del Rey,Ed Sheeran,12
+Lana Del Rey,Calvin Harris,8
+Lana Del Rey,Radiohead,14
+Lana Del Rey,The Killers,11
+Lana Del Rey,Imagine Dragons,14
+Lana Del Rey,Major Lazer,7
+Lana Del Rey,David Bowie,13
+Lana Del Rey,Foo Fighters,9
+Lana Del Rey,Lady Gaga,16
+Lana Del Rey,Nirvana,7
+Lana Del Rey,Katy Perry,18
+Lana Del Rey,Linkin Park,9
+Lana Del Rey,Oasis,7
+Lana Del Rey,Pink Floyd,6
+Lana Del Rey,Michael Jackson,9
+The Weeknd,Gorillaz,16
+Lana Del Rey,The Strokes,11
+Lana Del Rey,Amy Winehouse,17
+Lana Del Rey,Florence + the Machine,19
+Lana Del Rey,Lorde,20
+Lana Del Rey,Justin Timberlake,9
+Lana Del Rey,Ariana Grande,15
+Lana Del Rey,Justin Bieber,9
+Lana Del Rey,Led Zeppelin,7
+Queen,Adele,7
+Lana Del Rey,Britney Spears,16
+Lana Del Rey,Pearl Jam,7
+Lana Del Rey,Green Day,9
+Lana Del Rey,Anitta,19
+Lana Del Rey,Kings of Leon,12
+Lana Del Rey,The Rolling Stones,6
+Lana Del Rey,David Guetta,4
+Lana Del Rey,Muse,8
+Lana Del Rey,Madonna,14
+Lana Del Rey,Foster the People,12
+Lana Del Rey,Bruno Mars,13
+Lana Del Rey,The xx,15
+Lana Del Rey,Caetano Veloso,8
+Sia,Lana Del Rey,21
+The Beatles,Drake,3
+The Beatles,Ed Sheeran,13
+The Beatles,Calvin Harris,7
+The Beatles,Radiohead,18
+The Beatles,The Killers,14
+The Beatles,Imagine Dragons,9
+The Beatles,David Bowie,28
+The Beatles,Major Lazer,5
+The Beatles,Foo Fighters,9
+The Beatles,Lady Gaga,6
+The Beatles,Nirvana,8
+The Beatles,Katy Perry,10
+The Beatles,Linkin Park,8
+The Beatles,Oasis,15
+The Beatles,Pink Floyd,17
+Queen,Gorillaz,10
+The Beatles,The Strokes,13
+The Beatles,Amy Winehouse,10
+The Beatles,Florence + the Machine,15
+The Beatles,Lorde,7
+The Beatles,Justin Timberlake,6
+The Beatles,Justin Bieber,5
+The Beatles,Ariana Grande,4
+The Beatles,Led Zeppelin,19
+Lana Del Rey,Adele,16
+The Beatles,Britney Spears,11
+The Beatles,Pearl Jam,6
+The Beatles,Green Day,10
+The Beatles,Anitta,9
+The Beatles,Kings of Leon,12
+The Beatles,The Rolling Stones,19
+The Beatles,David Guetta,1
+The Beatles,Muse,15
+The Beatles,Madonna,7
+The Beatles,Foster the People,8
+The Beatles,Bruno Mars,9
+The Beatles,The xx,11
+The Beatles,Caetano Veloso,11
+Sia,Drake,7
+Sia,Ed Sheeran,14
+Sia,Calvin Harris,12
+Sia,Radiohead,16
+Sia,The Killers,14
+Sia,Imagine Dragons,9
+Sia,David Bowie,15
+Sia,Foo Fighters,9
+Sia,Lady Gaga,16
+Sia,Nirvana,6
+Sia,Katy Perry,19
+Sia,Linkin Park,9
+Sia,Oasis,9
+Sia,Pink Floyd,7
+Lana Del Rey,Gorillaz,12
+Sia,The Strokes,11
+Sia,Amy Winehouse,14
+Sia,Florence + the Machine,17
+Sia,Lorde,15
+Sia,Justin Timberlake,11
+Sia,Justin Bieber,11
+Sia,Ariana Grande,14
+Sia,Led Zeppelin,5
+Sia,Britney Spears,18
+The Beatles,Adele,12
+Sia,Pearl Jam,5
+Sia,Green Day,9
+Sia,Kings of Leon,10
+Sia,Anitta,19
+Sia,The Rolling Stones,5
+Sia,David Guetta,8
+Sia,Muse,11
+Sia,Madonna,16
+Sia,Foster the People,12
+Sia,Bruno Mars,10
+Sia,The xx,18
+Sia,Caetano Veloso,6
+Drake,Ed Sheeran,9
+Drake,Calvin Harris,6
+Drake,The Killers,5
+Drake,Radiohead,5
+Drake,Imagine Dragons,5
+Drake,David Bowie,6
+Drake,Foo Fighters,5
+Drake,Lady Gaga,5
+Drake,Nirvana,2
+Drake,Katy Perry,6
+Drake,Linkin Park,7
+Drake,Oasis,5
+Drake,Pink Floyd,2
+The Beatles,Gorillaz,12
+Drake,The Strokes,5
+Drake,Amy Winehouse,8
+Drake,Florence + the Machine,5
+Drake,Lorde,5
+Drake,Justin Timberlake,12
+Drake,Ariana Grande,12
+Drake,Justin Bieber,14
+Drake,Led Zeppelin,1
+Sia,Adele,20
+Drake,Pearl Jam,3
+Drake,Britney Spears,8
+Drake,Green Day,5
+Drake,Kings of Leon,5
+Drake,Anitta,12
+Drake,The Rolling Stones,4
+Drake,David Guetta,3
+Drake,Muse,5
+Drake,Foster the People,6
+Drake,Madonna,5
+Drake,Bruno Mars,10
+Drake,The xx,6
+Drake,Caetano Veloso,3
+Calvin Harris,Ed Sheeran,10
+The Killers,Calvin Harris,11
+Radiohead,The Killers,18
+Ed Sheeran,Imagine Dragons,10
+The Killers,David Bowie,22
+Ed Sheeran,Lady Gaga,8
+Ed Sheeran,Nirvana,4
+Ed Sheeran,Katy Perry,11
+Ed Sheeran,Foo Fighters,7
+Ed Sheeran,Linkin Park,10
+Ed Sheeran,Oasis,12
+Ed Sheeran,Pink Floyd,6
+Sia,Gorillaz,17
+Ed Sheeran,The Strokes,11
+Ed Sheeran,Amy Winehouse,13
+Ed Sheeran,Florence + the Machine,18
+Ed Sheeran,Justin Timberlake,11
+Ed Sheeran,Lorde,11
+Ed Sheeran,Justin Bieber,11
+Ed Sheeran,Ariana Grande,11
+Ed Sheeran,Led Zeppelin,8
+Drake,Adele,7
+Ed Sheeran,Pearl Jam,5
+Ed Sheeran,Britney Spears,12
+Ed Sheeran,Green Day,8
+Ed Sheeran,Kings of Leon,9
+Ed Sheeran,Anitta,14
+Ed Sheeran,The Rolling Stones,9
+Ed Sheeran,David Guetta,4
+Ed Sheeran,Muse,11
+Ed Sheeran,Madonna,8
+Ed Sheeran,Foster the People,10
+Ed Sheeran,Bruno Mars,15
+Ed Sheeran,The xx,12
+Ed Sheeran,Caetano Veloso,9
+The Killers,Ed Sheeran,10
+Radiohead,Calvin Harris,11
+Major Lazer,The Killers,11
+Calvin Harris,Imagine Dragons,7
+Radiohead,David Bowie,26
+Calvin Harris,Foo Fighters,6
+Calvin Harris,Lady Gaga,16
+Calvin Harris,Nirvana,3
+Calvin Harris,Katy Perry,11
+Calvin Harris,Oasis,8
+Calvin Harris,Pink Floyd,6
+Drake,Gorillaz,9
+Calvin Harris,Linkin Park,7
+Calvin Harris,The Strokes,8
+Calvin Harris,Amy Winehouse,9
+Calvin Harris,Florence + the Machine,10
+Calvin Harris,Justin Timberlake,9
+Calvin Harris,Justin Bieber,8
+Calvin Harris,Lorde,12
+Calvin Harris,Ariana Grande,10
+Calvin Harris,Led Zeppelin,5
+Calvin Harris,Britney Spears,15
+Calvin Harris,Pearl Jam,4
+Calvin Harris,Green Day,6
+Calvin Harris,Kings of Leon,7
+Ed Sheeran,Adele,19
+Calvin Harris,The Rolling Stones,8
+Calvin Harris,Anitta,11
+Calvin Harris,Madonna,13
+Calvin Harris,David Guetta,15
+Calvin Harris,Muse,9
+Calvin Harris,Foster the People,11
+Calvin Harris,The xx,13
+Calvin Harris,Caetano Veloso,6
+Radiohead,Ed Sheeran,13
+The Killers,Imagine Dragons,15
+Major Lazer,Calvin Harris,12
+Major Lazer,David Bowie,11
+The Killers,Lady Gaga,10
+The Killers,Nirvana,12
+The Killers,Foo Fighters,16
+The Killers,Linkin Park,16
+The Killers,Oasis,15
+The Killers,Katy Perry,14
+The Killers,Pink Floyd,8
+Ed Sheeran,Gorillaz,13
+The Killers,The Strokes,24
+The Killers,Amy Winehouse,7
+Calvin Harris,Bruno Mars,8
+The Killers,Florence + the Machine,12
+The Killers,Justin Timberlake,10
+The Killers,Justin Bieber,10
+The Killers,Lorde,8
+The Killers,Ariana Grande,7
+The Killers,Led Zeppelin,7
+The Killers,Britney Spears,15
+The Killers,Pearl Jam,9
+The Killers,Green Day,17
+The Killers,Kings of Leon,16
+Calvin Harris,Adele,9
+The Killers,The Rolling Stones,8
+The Killers,Anitta,11
+The Killers,Madonna,11
+The Killers,David Guetta,6
+The Killers,Muse,16
+The Killers,Foster the People,15
+The Killers,The xx,17
+The Killers,Caetano Veloso,5
+Major Lazer,Ed Sheeran,7
+Radiohead,Imagine Dragons,10
+David Bowie,Calvin Harris,13
+Radiohead,Lady Gaga,8
+Radiohead,Nirvana,9
+Radiohead,Foo Fighters,13
+Radiohead,Linkin Park,11
+Sia,Michael Jackson,8
+The Beatles,Michael Jackson,10
+Drake,Major Lazer,6
+Drake,Michael Jackson,7
+Radiohead,Oasis,16
+Radiohead,Katy Perry,11
+Radiohead,Pink Floyd,16
+Ed Sheeran,Michael Jackson,9
+Calvin Harris,Michael Jackson,9
+Calvin Harris,Gorillaz,12
+The Killers,Adele,9
+The Killers,Michael Jackson,11
+The Killers,Bruno Mars,10
+The Killers,Gorillaz,17
+Radiohead,Major Lazer,9
+Radiohead,Gorillaz,19
+Radiohead,Adele,13
+Radiohead,The Strokes,16
+Radiohead,Michael Jackson,9
+Radiohead,Amy Winehouse,10
+Radiohead,Justin Timberlake,7
+Radiohead,Ariana Grande,6
+Radiohead,Justin Bieber,8
+Radiohead,Florence + the Machine,17
+Radiohead,Anitta,9
+Radiohead,Lorde,11
+Radiohead,Led Zeppelin,11
+Radiohead,Pearl Jam,8
+Radiohead,Britney Spears,13
+Radiohead,Kings of Leon,13
+Major Lazer,The Strokes,8
+Radiohead,Green Day,13
+Radiohead,Muse,22
+Radiohead,The Rolling Stones,12
+Radiohead,David Guetta,6
+Radiohead,Madonna,8
+Radiohead,Bruno Mars,7
+Radiohead,Caetano Veloso,8
+Radiohead,Foster the People,11
+Major Lazer,Amy Winehouse,8
+Radiohead,The xx,20
+Major Lazer,Adele,6
+Major Lazer,Lady Gaga,10
+Major Lazer,Katy Perry,9
+Major Lazer,Foo Fighters,7
+Major Lazer,Imagine Dragons,7
+Major Lazer,Linkin Park,9
+Major Lazer,Nirvana,4
+Major Lazer,Oasis,6
+Major Lazer,Pink Floyd,5
+Major Lazer,Michael Jackson,8
+Major Lazer,Justin Timberlake,10
+Major Lazer,Ariana Grande,11
+Major Lazer,Florence + the Machine,8
+Major Lazer,Justin Bieber,9
+Major Lazer,Anitta,12
+Major Lazer,Lorde,8
+Major Lazer,Led Zeppelin,3
+Major Lazer,Pearl Jam,5
+Major Lazer,Britney Spears,14
+Major Lazer,Kings of Leon,7
+Major Lazer,Green Day,7
+Major Lazer,Muse,8
+Major Lazer,The Rolling Stones,5
+Major Lazer,David Guetta,9
+Major Lazer,Madonna,9
+Major Lazer,Bruno Mars,11
+Major Lazer,Gorillaz,15
+Major Lazer,Foster the People,9
+Major Lazer,Caetano Veloso,4
+Major Lazer,The xx,10
+David Bowie,Ed Sheeran,17
+David Bowie,Adele,16
+David Bowie,Lady Gaga,11
+David Bowie,Katy Perry,13
+David Bowie,Imagine Dragons,12
+David Bowie,Foo Fighters,14
+David Bowie,Linkin Park,13
+David Bowie,Nirvana,11
+David Bowie,Oasis,20
+David Bowie,Pink Floyd,25
+David Bowie,The Strokes,18
+David Bowie,Michael Jackson,19
+David Bowie,Justin Timberlake,12
+David Bowie,Amy Winehouse,15
+David Bowie,Ariana Grande,8
+David Bowie,Justin Bieber,9
+David Bowie,Florence + the Machine,21
+David Bowie,Lorde,12
+David Bowie,Anitta,11
+David Bowie,Led Zeppelin,20
+David Bowie,Pearl Jam,9
+David Bowie,Britney Spears,15
+David Bowie,Kings of Leon,15
+David Bowie,Green Day,15
+David Bowie,Muse,23
+David Bowie,The Rolling Stones,20
+David Bowie,David Guetta,6
+David Bowie,Madonna,13
+David Bowie,Bruno Mars,14
+David Bowie,Gorillaz,19
+David Bowie,Caetano Veloso,16
+David Bowie,Foster the People,12
+Adele,Lady Gaga,12
+David Bowie,The xx,20
+Adele,Katy Perry,14
+Adele,Foo Fighters,6
+Adele,Imagine Dragons,7
+Adele,Linkin Park,6
+Adele,Nirvana,3
+Adele,Oasis,11
+Adele,Pink Floyd,6
+Adele,The Strokes,10
+Adele,Amy Winehouse,22
+Adele,Michael Jackson,8
+Adele,Justin Timberlake,9
+Adele,Justin Bieber,10
+Adele,Ariana Grande,12
+Adele,Florence + the Machine,21
+Adele,Anitta,18
+Adele,Lorde,12
+Adele,Led Zeppelin,7
+Adele,Pearl Jam,4
+Adele,Kings of Leon,10
+Adele,Britney Spears,15
+Adele,Green Day,6
+Adele,Muse,11
+Adele,David Guetta,4
+Adele,The Rolling Stones,10
+Adele,Bruno Mars,13
+Adele,Madonna,11
+Adele,Gorillaz,12
+Adele,Caetano Veloso,8
+Adele,Foster the People,7
+Lady Gaga,Florence + the Machine,12
+Adele,The xx,13
+Lady Gaga,Katy Perry,27
+Lady Gaga,Foo Fighters,7
+Lady Gaga,Imagine Dragons,7
+Lady Gaga,Linkin Park,8
+Lady Gaga,Nirvana,4
+Lady Gaga,Oasis,5
+Lady Gaga,Pink Floyd,4
+Lady Gaga,The Strokes,9
+Lady Gaga,Michael Jackson,13
+Lady Gaga,Amy Winehouse,13
+Lady Gaga,Ariana Grande,19
+Sia,Major Lazer,8
+Lady Gaga,Justin Bieber,16
+Lady Gaga,Justin Timberlake,17
+Lady Gaga,Anitta,22
+Lady Gaga,Lorde,13
+Lady Gaga,Pearl Jam,5
+Lady Gaga,Led Zeppelin,3
+Lady Gaga,Britney Spears,34
+Lady Gaga,Kings of Leon,7
+Lady Gaga,Green Day,7
+Lady Gaga,Muse,6
+Lady Gaga,The Rolling Stones,4
+Lady Gaga,David Guetta,11
+Lady Gaga,Bruno Mars,10
+Lady Gaga,Madonna,28
+Lady Gaga,Gorillaz,9
+Lady Gaga,Caetano Veloso,5
+Lady Gaga,The xx,9
+Lady Gaga,Foster the People,10
+Imagine Dragons,Linkin Park,12
+Imagine Dragons,Justin Bieber,7
+Imagine Dragons,Nirvana,8
+Imagine Dragons,Oasis,9
+Imagine Dragons,The Strokes,12
+Imagine Dragons,Pink Floyd,5
+Imagine Dragons,Michael Jackson,8
+Imagine Dragons,Amy Winehouse,5
+Imagine Dragons,Justin Timberlake,7
+Imagine Dragons,Ariana Grande,8
+Imagine Dragons,Anitta,12
+Imagine Dragons,Florence + the Machine,10
+Imagine Dragons,Lorde,10
+Imagine Dragons,Led Zeppelin,5
+Imagine Dragons,Pearl Jam,8
+Imagine Dragons,Britney Spears,9
+Imagine Dragons,Kings of Leon,12
+Imagine Dragons,Green Day,11
+Imagine Dragons,Muse,9
+Imagine Dragons,The Rolling Stones,6
+Imagine Dragons,David Guetta,3
+Imagine Dragons,Madonna,8
+Imagine Dragons,Bruno Mars,11
+Imagine Dragons,Gorillaz,9
+Imagine Dragons,Caetano Veloso,6
+Imagine Dragons,Foster the People,14
+Imagine Dragons,The xx,11
+Foo Fighters,Imagine Dragons,10
+Foo Fighters,Nirvana,17
+Foo Fighters,Linkin Park,16
+Foo Fighters,Pink Floyd,8
+Foo Fighters,The Strokes,16
+Foo Fighters,Michael Jackson,9
+Foo Fighters,Amy Winehouse,6
+Foo Fighters,Justin Timberlake,8
+Foo Fighters,Oasis,14
+Foo Fighters,Ariana Grande,4
+Foo Fighters,Justin Bieber,9
+Foo Fighters,Florence + the Machine,8
+Foo Fighters,Anitta,6
+Foo Fighters,Lorde,5
+Foo Fighters,Led Zeppelin,8
+Foo Fighters,Pearl Jam,14
+Foo Fighters,Britney Spears,10
+Foo Fighters,Kings of Leon,15
+Foo Fighters,Green Day,20
+Foo Fighters,Muse,14
+Foo Fighters,The Rolling Stones,9
+Foo Fighters,David Guetta,3
+Foo Fighters,Madonna,8
+Foo Fighters,Bruno Mars,8
+Foo Fighters,Gorillaz,12
+Foo Fighters,Caetano Veloso,6
+Foo Fighters,Foster the People,11
+Foo Fighters,The xx,9
+Katy Perry,Foo Fighters,9
+Katy Perry,Imagine Dragons,11
+Katy Perry,Linkin Park,11
+Katy Perry,Nirvana,6
+Katy Perry,Oasis,8
+Katy Perry,Pink Floyd,5
+Katy Perry,The Strokes,12
+Katy Perry,Michael Jackson,13
+Katy Perry,Amy Winehouse,14
+Katy Perry,Ariana Grande,19
+Katy Perry,Justin Timberlake,16
+Katy Perry,Justin Bieber,17
+Katy Perry,Florence + the Machine,15
+Katy Perry,Anitta,23
+Katy Perry,Lorde,13
+Katy Perry,Led Zeppelin,4
+Katy Perry,Pearl Jam,6
+Katy Perry,Britney Spears,32
+Katy Perry,Kings of Leon,10
+Katy Perry,Green Day,11
+Katy Perry,Muse,9
+Katy Perry,The Rolling Stones,5
+Katy Perry,David Guetta,6
+Katy Perry,Madonna,23
+Katy Perry,Bruno Mars,12
+Katy Perry,Gorillaz,10
+Katy Perry,Caetano Veloso,5
+Katy Perry,Foster the People,15
+Katy Perry,The xx,11
+Linkin Park,Nirvana,12
+Linkin Park,Pink Floyd,7
+Linkin Park,Oasis,12
+Linkin Park,The Strokes,14
+Linkin Park,Michael Jackson,9
+Linkin Park,Amy Winehouse,6
+Linkin Park,Justin Timberlake,11
+Linkin Park,Ariana Grande,7
+Linkin Park,Justin Bieber,14
+Linkin Park,Florence + the Machine,8
+Linkin Park,Lorde,6
+Linkin Park,Anitta,10
+Linkin Park,Led Zeppelin,7
+Linkin Park,Pearl Jam,10
+Linkin Park,Britney Spears,13
+Linkin Park,Kings of Leon,13
+Linkin Park,Muse,13
+Linkin Park,Green Day,18
+Linkin Park,The Rolling Stones,7
+Linkin Park,David Guetta,4
+Linkin Park,Madonna,9
+Linkin Park,Bruno Mars,10
+Linkin Park,Gorillaz,14
+Linkin Park,Caetano Veloso,5
+Linkin Park,Foster the People,13
+Linkin Park,The xx,9
+Nirvana,Ariana Grande,2
+Nirvana,Lorde,3
+Nirvana,Oasis,11
+Nirvana,Pink Floyd,7
+Nirvana,The Strokes,12
+Nirvana,Michael Jackson,6
+Nirvana,Amy Winehouse,3
+Nirvana,Justin Timberlake,5
+Nirvana,Florence + the Machine,5
+Nirvana,Anitta,4
+Nirvana,Justin Bieber,5
+Nirvana,Led Zeppelin,8
+Nirvana,Pearl Jam,14
+Nirvana,Britney Spears,6
+Nirvana,Muse,10
+Nirvana,Green Day,16
+Nirvana,Kings of Leon,12
+Nirvana,The Rolling Stones,7
+Nirvana,David Guetta,0
+Nirvana,Madonna,5
+Nirvana,Bruno Mars,6
+Nirvana,Gorillaz,9
+Nirvana,Caetano Veloso,4
+Nirvana,Foster the People,8
+Nirvana,The xx,6
+Pink Floyd,Led Zeppelin,19
+Pink Floyd,Michael Jackson,7
+Pink Floyd,The Strokes,8
+Pink Floyd,Amy Winehouse,7
+Pink Floyd,Justin Timberlake,3
+Pink Floyd,Ariana Grande,1
+Pink Floyd,Florence + the Machine,9
+Pink Floyd,Lorde,5
+Pink Floyd,Justin Bieber,2
+Pink Floyd,Anitta,4
+Pink Floyd,Pearl Jam,7
+Pink Floyd,Britney Spears,5
+Pink Floyd,Kings of Leon,8
+Oasis,Britney Spears,9
+Pink Floyd,Muse,14
+Pink Floyd,Green Day,8
+Pink Floyd,David Guetta,1
+Pink Floyd,The Rolling Stones,15
+Pink Floyd,Madonna,5
+Pink Floyd,Bruno Mars,4
+Pink Floyd,Caetano Veloso,10
+Pink Floyd,Gorillaz,9
+Pink Floyd,The xx,9
+Pink Floyd,Foster the People,5
+Oasis,Pink Floyd,10
+Oasis,The Strokes,14
+Oasis,Michael Jackson,8
+Oasis,Amy Winehouse,10
+Oasis,Ariana Grande,4
+Oasis,Justin Timberlake,6
+Oasis,Justin Bieber,6
+Oasis,Anitta,7
+Oasis,Florence + the Machine,13
+Oasis,Lorde,5
+Oasis,Led Zeppelin,9
+Oasis,Pearl Jam,9
+Oasis,Kings of Leon,14
+Oasis,Green Day,15
+Oasis,Muse,18
+Oasis,The Rolling Stones,12
+Oasis,Madonna,7
+Oasis,David Guetta,3
+Oasis,Bruno Mars,8
+Oasis,Gorillaz,14
+Oasis,Caetano Veloso,6
+Oasis,Foster the People,10
+Oasis,The xx,12
+Michael Jackson,Amy Winehouse,10
+Michael Jackson,Justin Timberlake,16
+Michael Jackson,Ariana Grande,12
+Michael Jackson,Florence + the Machine,7
+Michael Jackson,Anitta,11
+Michael Jackson,Lorde,6
+Michael Jackson,Led Zeppelin,6
+Michael Jackson,Britney Spears,15
+Michael Jackson,Kings of Leon,8
+Michael Jackson,Green Day,10
+Michael Jackson,Muse,7
+Michael Jackson,Justin Bieber,11
+Michael Jackson,The Rolling Stones,9
+Michael Jackson,David Guetta,5
+Michael Jackson,Madonna,16
+Michael Jackson,Bruno Mars,14
+Michael Jackson,Caetano Veloso,8
+Michael Jackson,The xx,7
+Michael Jackson,Foster the People,10
+The Strokes,Michael Jackson,8
+The Strokes,Amy Winehouse,7
+The Strokes,Ariana Grande,4
+The Strokes,Justin Timberlake,9
+The Strokes,Justin Bieber,8
+The Strokes,Florence + the Machine,13
+The Strokes,Anitta,9
+The Strokes,Lorde,6
+The Strokes,Led Zeppelin,7
+The Strokes,Pearl Jam,9
+The Strokes,Kings of Leon,19
+The Strokes,Britney Spears,11
+The Strokes,Green Day,16
+The Strokes,Muse,16
+The Strokes,David Guetta,3
+The Strokes,Madonna,8
+The Strokes,Bruno Mars,8
+The Strokes,Gorillaz,14
+The Strokes,Caetano Veloso,5
+The Strokes,Foster the People,12
+The Strokes,The xx,15
+Amy Winehouse,Justin Timberlake,11
+Amy Winehouse,Ariana Grande,12
+Amy Winehouse,Justin Bieber,10
+Amy Winehouse,Florence + the Machine,16
+Amy Winehouse,Anitta,15
+Amy Winehouse,Lorde,10
+Amy Winehouse,Led Zeppelin,7
+Amy Winehouse,Pearl Jam,4
+Amy Winehouse,Britney Spears,16
+Amy Winehouse,Kings of Leon,7
+Amy Winehouse,Green Day,6
+Amy Winehouse,Muse,9
+Michael Jackson,Pearl Jam,7
+Amy Winehouse,The Rolling Stones,11
+Amy Winehouse,David Guetta,4
+Amy Winehouse,Madonna,13
+Amy Winehouse,Bruno Mars,15
+Amy Winehouse,Gorillaz,11
+Amy Winehouse,Caetano Veloso,7
+Amy Winehouse,Foster the People,6
+Amy Winehouse,The xx,12
+Florence + the Machine,Anitta,13
+Florence + the Machine,Lorde,16
+Florence + the Machine,Led Zeppelin,7
+Florence + the Machine,Britney Spears,14
+Florence + the Machine,Kings of Leon,11
+Florence + the Machine,Green Day,8
+Florence + the Machine,Pearl Jam,5
+Florence + the Machine,Muse,17
+Florence + the Machine,The Rolling Stones,9
+Florence + the Machine,David Guetta,4
+Florence + the Machine,Madonna,11
+Justin Timberlake,Green Day,8
+Florence + the Machine,Bruno Mars,9
+Florence + the Machine,Foster the People,10
+Florence + the Machine,Gorillaz,15
+Florence + the Machine,Caetano Veloso,7
+Florence + the Machine,The xx,16
+The Strokes,The Rolling Stones,8
+Justin Timberlake,Florence + the Machine,8
+Justin Timberlake,Ariana Grande,18
+Justin Timberlake,Justin Bieber,20
+Justin Timberlake,Anitta,19
+Justin Timberlake,Lorde,6
+Justin Timberlake,Led Zeppelin,2
+Justin Timberlake,Pearl Jam,5
+Justin Timberlake,Britney Spears,20
+Justin Timberlake,Kings of Leon,8
+Justin Timberlake,Muse,7
+Justin Timberlake,The Rolling Stones,5
+Justin Timberlake,David Guetta,6
+Justin Timberlake,Madonna,14
+Justin Timberlake,Bruno Mars,18
+Justin Timberlake,Gorillaz,11
+Justin Timberlake,Foster the People,9
+Justin Timberlake,Caetano Veloso,5
+Justin Timberlake,The xx,7
+Lorde,Led Zeppelin,4
+Lorde,Pearl Jam,4
+Lorde,Kings of Leon,7
+Lorde,Britney Spears,13
+Lorde,Green Day,5
+Lorde,Muse,7
+Lorde,David Guetta,5
+Lorde,Madonna,11
+Lorde,Bruno Mars,9
+Lorde,Gorillaz,10
+Lorde,Foster the People,10
+Lorde,Caetano Veloso,8
+Justin Bieber,Florence + the Machine,9
+Lorde,The xx,14
+Justin Bieber,Anitta,22
+Justin Bieber,Lorde,9
+Justin Bieber,Led Zeppelin,3
+Justin Bieber,Pearl Jam,6
+Michael Jackson,Gorillaz,7
+Justin Bieber,Kings of Leon,6
+Justin Bieber,Britney Spears,29
+Justin Bieber,Green Day,10
+Justin Bieber,Muse,8
+Justin Bieber,The Rolling Stones,4
+Justin Bieber,Madonna,14
+Justin Bieber,David Guetta,5
+Justin Bieber,Bruno Mars,13
+Justin Bieber,Gorillaz,10
+Justin Bieber,Caetano Veloso,3
+Justin Bieber,Foster the People,9
+Justin Bieber,The xx,8
+Ariana Grande,Justin Bieber,20
+Ariana Grande,Florence + the Machine,10
+Ariana Grande,Anitta,29
+Ariana Grande,Led Zeppelin,0
+Ariana Grande,Pearl Jam,3
+Ariana Grande,Lorde,14
+Ariana Grande,Britney Spears,25
+Ariana Grande,Kings of Leon,4
+Ariana Grande,Muse,4
+Ariana Grande,Green Day,5
+Ariana Grande,The Rolling Stones,3
+Ariana Grande,David Guetta,8
+Ariana Grande,Madonna,17
+Ariana Grande,Caetano Veloso,5
+Ariana Grande,Bruno Mars,15
+Ariana Grande,Gorillaz,8
+Ariana Grande,Foster the People,9
+Ariana Grande,The xx,8
+Led Zeppelin,Pearl Jam,7
+Led Zeppelin,Kings of Leon,11
+Led Zeppelin,Britney Spears,4
+Led Zeppelin,Green Day,8
+Led Zeppelin,Muse,11
+Led Zeppelin,The Rolling Stones,19
+Led Zeppelin,David Guetta,0
+Led Zeppelin,Madonna,4
+Led Zeppelin,Bruno Mars,5
+Led Zeppelin,Gorillaz,8
+Led Zeppelin,Foster the People,4
+Led Zeppelin,Caetano Veloso,11
+Led Zeppelin,The xx,6
+Anitta,Lorde,16
+Anitta,Led Zeppelin,5
+Anitta,Pearl Jam,5
+Anitta,Kings of Leon,9
+Anitta,Britney Spears,27
+Lorde,The Rolling Stones,5
+Anitta,Green Day,7
+Anitta,Muse,7
+Anitta,The Rolling Stones,5
+Anitta,David Guetta,8
+Anitta,Madonna,21
+Anitta,Bruno Mars,17
+Anitta,Gorillaz,14
+Anitta,Caetano Veloso,14
+Anitta,Foster the People,13
+Anitta,The xx,12
+Pearl Jam,Britney Spears,7
+Pearl Jam,Kings of Leon,10
+Pearl Jam,Green Day,13
+Pearl Jam,Muse,9
+Pearl Jam,The Rolling Stones,8
+Pearl Jam,Madonna,6
+Pearl Jam,David Guetta,1
+Pearl Jam,Bruno Mars,7
+Pearl Jam,Caetano Veloso,5
+Pearl Jam,Gorillaz,6
+Britney Spears,Kings of Leon,8
+Pearl Jam,The xx,6
+Pearl Jam,Foster the People,8
+Britney Spears,Green Day,11
+Britney Spears,Muse,11
+Britney Spears,The Rolling Stones,7
+Britney Spears,David Guetta,12
+Britney Spears,Madonna,30
+Britney Spears,Bruno Mars,15
+Britney Spears,Gorillaz,12
+Britney Spears,Caetano Veloso,6
+Britney Spears,Foster the People,12
+Green Day,David Guetta,3
+Britney Spears,The xx,11
+Green Day,Muse,14
+Green Day,Madonna,9
+Green Day,Bruno Mars,9
+Green Day,Gorillaz,12
+Green Day,Caetano Veloso,6
+Green Day,Foster the People,13
+Green Day,The xx,9
+The Rolling Stones,David Guetta,2
+The Rolling Stones,Madonna,6
+The Rolling Stones,Bruno Mars,9
+The Rolling Stones,Gorillaz,8
+The Rolling Stones,Caetano Veloso,12
+The Rolling Stones,Foster the People,6
+The Rolling Stones,The xx,10
+Muse,The Rolling Stones,11
+Muse,Madonna,7
+Muse,David Guetta,4
+Muse,Bruno Mars,7
+Muse,Gorillaz,16
+Muse,Caetano Veloso,7
+Muse,Foster the People,10
+Muse,The xx,14
+Kings of Leon,Green Day,15
+Kings of Leon,Muse,12
+Kings of Leon,The Rolling Stones,11
+Kings of Leon,David Guetta,3
+Kings of Leon,Madonna,7
+Kings of Leon,Bruno Mars,10
+Kings of Leon,Gorillaz,12
+Kings of Leon,Foster the People,12
+Kings of Leon,Caetano Veloso,7
+Kings of Leon,The xx,10
+David Guetta,Madonna,8
+David Guetta,Bruno Mars,3
+David Guetta,Gorillaz,8
+David Guetta,Caetano Veloso,2
+David Guetta,Foster the People,6
+David Guetta,The xx,7
+Madonna,Bruno Mars,11
+Madonna,Gorillaz,8
+Madonna,Caetano Veloso,7
+Madonna,Foster the People,11
+Madonna,The xx,9
+Bruno Mars,Gorillaz,10
+Bruno Mars,Caetano Veloso,8
+Bruno Mars,Foster the People,10
+Bruno Mars,The xx,8
+Foster the People,The xx,13
+Gorillaz,Foster the People,11
+Gorillaz,The xx,19
+Gorillaz,Caetano Veloso,5
+Caetano Veloso,Foster the People,5
+Caetano Veloso,The xx,6
+Green Day,The Rolling Stones,9
+
